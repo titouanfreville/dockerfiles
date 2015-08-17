@@ -1,4 +1,7 @@
 ### PhpStorm
+#### How to build
+- modify the phpstorm/Dockerfile to use the good installation files, version ...
+- ```docker built -t $image_name .```
 
 #### How to install
 
